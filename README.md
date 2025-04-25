@@ -18,7 +18,7 @@ Este projeto é um script simples de automação para organizar arquivos dentro 
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/c4rl0sfilho/OrganizadorDeArquivos.git
    ```
 
 2. Acesse a pasta do projeto:
